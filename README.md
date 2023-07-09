@@ -2,5 +2,5 @@
 
 Hi everybody!!
 
-I'm Jiovanny! I love to game and skate with friends, My favorite food is shephards pie.
-I've haven't skated in a while and I tend not to eat shephards pie much and eat a lot of wendys.
+I'm Jio! I love to game and skate with friends, My favorite food is shepherd's pie. I started with Python and going further into other codes, I'll be uploading games that I make and codes that could help in case of need aid on game making, or even website making as well
+
